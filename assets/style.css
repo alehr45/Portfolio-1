@@ -1,7 +1,7 @@
 :root {
   --primary-color: #383838;
   --secondary-color: #acacac;
-  --tertiary-color:  #1a1a1a;;
+  --tertiary-color:  #292929;;
 }
 * {
   margin: 20;
@@ -109,7 +109,7 @@ footer h2 {
 
 .hero h2 {
   font-weight: bold;
-  font-size: 32px;
+  font-size: 28px;
   background-color: var(--primary-color);
   color: var(--secondary-color);
   padding: 5px;
