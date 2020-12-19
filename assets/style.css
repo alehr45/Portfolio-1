@@ -73,6 +73,10 @@ header nav ul li a {
   color: var(--secondary-color);
   
 }
+
+span {
+  font-size:40px;
+}
 /* Footer Styles */
 footer {
   display: flex;
@@ -80,7 +84,7 @@ footer {
   flex-wrap: wrap;
   background: var(--primary-color);
   width: 100%;
-  padding: 70px 35px;
+  padding: 30px 35px;
 }
 footer h2 {
   color: var(--secondary-color);
@@ -170,7 +174,7 @@ footer h2 {
   font-size: large;
   font-weight: bold;
   font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-  margin-top: 5px;
+  margin-top: 25px;
   flex-wrap: wrap;
   flex-direction: row;
 }
@@ -279,6 +283,7 @@ footer h2 {
   text-shadow: 0 0 5px white;
 }
 .contact-info a {
+  justify-content: center;
   text-decoration: none;
   color: var(--tertiary-color);
   font-size: 25px;
