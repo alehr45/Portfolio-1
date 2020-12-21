@@ -220,7 +220,7 @@ footer h2 {
 }
 .item-3 {
   height: 200px;
-  background-image: url(./images/404.png);
+  background-image: url(./images/);
   background-size: 100% 100%;
   display: flex;
   flex-direction: column;
