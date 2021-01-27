@@ -8,5 +8,7 @@ I used HTML and CSS in this project.
 Welcome to my portfolio!!!
 
 
+![Alt text](./screenshot.png?raw=true "Optional Title")
+
 
 https://alehr45.github.io/Portfolio-1/
